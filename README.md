@@ -1,1 +1,1 @@
-# horizontal-slider-for-your-twits
+# horizontal-slider-for-your-tweets

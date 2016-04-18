@@ -1,4 +1,4 @@
-=== horizontal-slider-for-your-twits ===
+=== horizontal-slider-for-your-tweets===
 Contributors: kiranpatil353 , clarionwpdeveloper
 Tags: Twitter feed slider,tweets one at time, twitter api post slider ,twitter post slider, twitter horizontal slider
 Requires at least: 3.0.1

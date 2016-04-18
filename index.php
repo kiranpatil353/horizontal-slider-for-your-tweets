@@ -1,6 +1,6 @@
 <?php 
 	/**
- * Plugin Name:		   Horizontal Slider for your twits
+ * Plugin Name:		   Horizontal Slider for your tweets
  * Plugin URI:		   http://clariontechnologies.co.in
  * Description:		   Slider for Tweeter feeds , one at a time horizontal.
  * Version: 		   1.0
